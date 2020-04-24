@@ -4,7 +4,7 @@ int main()
 {
     int N;
     scanf("%d",&N);
-    int num[N];
+    int num[100];
     for(int i=0;i<N;i++)
         scanf("%d",&num[i]);
     int left=0,right=0,maxvalue=0;

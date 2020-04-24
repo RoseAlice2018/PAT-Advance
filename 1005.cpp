@@ -5,7 +5,7 @@ int main()
 {
     string n[10]={"zero","one","two","three","four","five","six","seven","eight","nine"};
     string num;
-    cin>>num;
+   // cin>>num;
     int sum=0;
     for(int i=0;i<num.size();i++)
     {
